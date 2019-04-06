@@ -4,4 +4,4 @@ Offline Signature verification:
 
 Online Signature verification: 
 1) Computation of the similarity between two online signatures using normalized Levenshtein Distance with a different cost. 
-2) The x and y coordinates of the signatures are used as a parameter.
+2) The values x and y coordinates for the signatures are considered as a input parameter.
